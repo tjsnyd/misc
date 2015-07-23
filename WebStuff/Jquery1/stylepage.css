@@ -1,0 +1,126 @@
+body{
+    background-color:black;
+    margin:0;
+    padding:0;
+}
+.over{
+   
+}
+.back{
+    z-index = 3;
+    position: relative;
+}
+#uno{
+    position:fixed;
+    top:1%;
+    left:5%;
+    background-color: white;
+    
+    
+}
+#dos{
+    position:fixed;
+    top:1%;
+    left:9%;
+    background-color: white;
+    
+    
+}
+#tres{
+    position:fixed;
+    top:1%;
+    left:13%;
+    background-color: white;
+    
+}
+#quatro{
+    position:fixed;
+    top:1%;
+    left:17%;
+    background-color: white;
+    
+}
+#cinco{
+    position:fixed;
+    top:1%;
+    left:21%;
+    background-color: white;
+}
+
+#turt{
+   max-height:20%;
+   max-width:20%;
+   border: 2px solid gray; 
+   border-radius:;
+}
+#contain{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:17%;
+    background-color:black;
+    border-radius:0 0 10px 10px;
+}
+#bday{
+    position:fixed;
+    width:0%;
+    height:15%;
+    background-color: #999999;
+    z-index:0;
+    top:1%;
+    left:30%;
+    border-radius:20px;
+}
+
+.long{
+    width:100%;
+    height:20%;
+    background-color:#646E6E;
+    border-radius:10px ;
+}
+.long2{
+    width:100%;
+    height:20%;
+    background-color:#646E6E;
+    border-radius: 0px 0px 10px 10px;
+}
+.panel{
+    float:left;
+    position:relative;
+    top:18%;
+    left:0;
+    z-index:0;
+    
+}
+
+.border{
+    width:100%;
+    height:1%;
+    background-color:black;
+
+}
+.one{
+    width:33.33333333%;
+    height:50%;
+    display:inline;
+    background-color:black;
+}
+.one2{
+    width:33.44%;
+    height:50%;
+    display:inline-block;
+    margin: -2px;
+    background-color:#FFD6AD;
+    position:relative;
+    top: 2%;
+}
+#hold{
+    top:36.3%;
+    left:0%;
+    position:absolute;
+    z-index:-1;
+    width:99%;
+    height:100%;
+    padding:0;
+}
